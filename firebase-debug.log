@@ -1,0 +1,25 @@
+[debug] [2023-06-15T08:20:40.248Z] ----------------------------------------------------------------------
+[debug] [2023-06-15T08:20:40.257Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lifos\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-15T08:20:40.258Z] CLI Version:   11.30.0
+[debug] [2023-06-15T08:20:40.258Z] Platform:      win32
+[debug] [2023-06-15T08:20:40.258Z] Node Version:  v20.2.0
+[debug] [2023-06-15T08:20:40.258Z] Time:          Thu Jun 15 2023 15:20:40 GMT+0700 (Indochina Time)
+[debug] [2023-06-15T08:20:40.258Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-15T08:20:40.265Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-15T08:20:40.265Z] > authorizing via signed-in user (c264dkx4238@bangkit.academy)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\WEBSITE-AGROAI
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
